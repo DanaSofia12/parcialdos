@@ -1,0 +1,3 @@
+# parcialdos
+
+Repositorio del parcial.
